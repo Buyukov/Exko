@@ -1,0 +1,87 @@
+.productDisplay__main-container {
+ display: flex;
+ flex-direction: column;
+ width: 80%;
+ margin: 0 auto;
+}
+
+.ImportantText {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 3rem;
+    text-align: center;
+}
+
+.productDisplay__container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 0rem 4rem;
+   flex-wrap: wrap;
+   gap: 1rem;
+}
+
+.productDisplay__items {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   text-align: center;
+   width: 400px;
+   padding: 1rem;
+}
+
+.productDisplay__items h3{
+   color: #4B0082;
+}
+
+.productDisplay__items div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.6rem;
+    width: 100%;
+}
+
+.productDisplay_price {
+    color: brown;
+}
+
+.contact__form-tag {
+    background-color: #4B0082;
+}
+
+.bestProducts__Container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 3px;
+    color: #4B0082;
+}
+
+/*======================================== BREAKPOINTS ========================================*/
+/* for large devices */
+@media screen and (max-width: 992px) {
+}
+
+/* for medium devices */
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 576px) {
+    .productDisplay__main-container {
+        width: 100%;
+    }
+
+    .productDisplay__container {
+        margin: 1rem 1rem;
+        gap: 0;
+    }
+}
+
+/* for small devices */
+@media screen and (max-width: 350px) {
+}

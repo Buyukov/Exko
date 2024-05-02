@@ -1,0 +1,29 @@
+.carouselFlip__container {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+
+.carousel-inner {
+    border-radius: 1rem;
+}
+
+/*======================================== BREAKPOINTS ========================================*/
+/* for large devices */
+@media screen and (max-width: 992px) {
+}
+
+/* for medium devices */
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 576px) {
+    .carouselFlip__container {
+        width: 100%;
+        padding: 0 1rem;
+    }
+}
+
+/* for small devices */
+@media screen and (max-width: 350px) {
+}

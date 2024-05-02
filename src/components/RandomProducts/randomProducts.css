@@ -1,0 +1,37 @@
+.randomProducts__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 85%;
+  margin: 0 auto;
+  color: #4B0082;
+}
+
+.randomProducts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding: 1rem 0rem;
+}
+
+/*======================================== BREAKPOINTS ========================================*/
+/* for large devices */
+@media screen and (max-width: 992px) {
+}
+
+/* for medium devices */
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 576px) {
+    .randomProducts__container {
+        width: 100%;
+    }
+}
+
+/* for small devices */
+@media screen and (max-width: 350px) {
+}

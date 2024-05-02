@@ -1,0 +1,29 @@
+.spaceImages__contaienr {
+   width: 80%;
+   margin: 1rem auto;
+}
+
+.spaceImages__image {
+   width: 100%;
+   border-radius: 1.5rem;
+}
+
+/*======================================== BREAKPOINTS ========================================*/
+/* for large devices */
+@media screen and (max-width: 992px) {
+}
+
+/* for medium devices */
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 576px) {
+   .spaceImages__contaienr {
+      width: 90%;
+      /* padding: 0 1rem; */
+   }
+}
+
+/* for small devices */
+@media screen and (max-width: 350px) {
+}

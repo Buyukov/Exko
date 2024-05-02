@@ -1,0 +1,31 @@
+footer {
+  text-align: center;
+  padding: 5rem;
+  margin-top: 3rem;
+  background-color: #2b2d42;
+  color: white;
+}
+
+.footer__logo {
+  color: white;
+}
+
+.Foter__item {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
+.footer__social {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    
+}
+
+.footer__social a {
+  color: white;
+}
+
