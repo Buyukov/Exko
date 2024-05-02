@@ -1,5 +1,7 @@
 import { translateText } from "../helpers/translation";
 
+// console.log(translateText);
+
 import Image1 from "../Product-Image/Clothes/Clothes1.jpg";
 import Image2 from "../Product-Image/Clothes/Clothes2.jpg";
 import Image7 from "../Product-Image/Electronics/Electronics1.jpg";
@@ -11,6 +13,7 @@ import Image26 from "../Product-Image/Toys/Toys2.jpg";
 import Image31 from "../Product-Image/Watches/Watches1.png";
 import Image32 from "../Product-Image/Watches/Watches2.jpg";
 
+console.log(translateText);
 let randomProducts = [
     {
         id: 1,

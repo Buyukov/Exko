@@ -433,21 +433,21 @@ let RussianLan = {
 };
 
 function translateText() {
-    let userLanguage = localStorage.getItem("language");
-  
-    if (userLanguage === "uz") {
-      return UzbekLan;
-    } else if (userLanguage === "ru") {
-      return RussianLan;
-    } else if (userLanguage === "kor") {
-      return KoreanLan;
-    }
+  let userLanguage = localStorage.getItem("language");
+
+  if (userLanguage === "uz") {
+    return UzbekLan;
+  } else if (userLanguage === "ru") {
+    return RussianLan;
+  } else if (userLanguage === "kor") {
+    return KoreanLan;
   }
-  
-  function editLanguage(event) {
-    localStorage.setItem("language", event.target.getAttribute("alt"));
-    window.location.reload();
-  }
+}
+
+function editLanguage(event) {
+  localStorage.setItem("language", event.target.getAttribute("alt"));
+  window.location.reload();
+}
   
   export { translateText, editLanguage };
   
