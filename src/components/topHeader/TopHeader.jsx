@@ -9,17 +9,17 @@ const TopHeader = () => {
   return (
     <div className='topHeader-Container'>
         <div className='topHeader__item display__None'>
-           <i class='bx bxs-location-plus bx-tada' ></i>
+           <i className='bx bxs-location-plus bx-tada' ></i>
            <a href='/' className='topHeader__currentLocation'>{translateText().currentLocation}</a>
         </div>
 
         <div className='topHeader__item display__None'>
-           <i class='bx bxs-cart-alt bx-tada' ></i>
+           <i className='bx bxs-cart-alt bx-tada' ></i>
            <span className='topHeader__delivery'>{translateText().topDeliver}</span>
         </div>
 
         <div className='topHeader__item display__None'>
-           <i class='bx bxs-phone bx-tada' ></i>
+           <i className='bx bxs-phone bx-tada' ></i>
            <span href='/' className='topHeader__Colab'>{translateText().forColaborate}</span>
            <a href='/' className='topHeader__Colab-Number'>+998 99 999 99 99</a>
         </div>
