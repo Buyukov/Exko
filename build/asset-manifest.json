@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.88ddaaba.css",
-    "main.js": "/static/js/main.14c1642c.js",
-    "static/js/787.8e02cb2b.chunk.js": "/static/js/787.8e02cb2b.chunk.js",
+    "main.js": "/static/js/main.4d2ba5a4.js",
     "static/media/deliver-to-so-many-countries-2048x1152.jpeg": "/static/media/deliver-to-so-many-countries-2048x1152.c6dcaa4d46e7663b5497.jpeg",
     "static/media/onlineShoping4.jpg": "/static/media/onlineShoping4.bfa2abe472a9a48c2831.jpg",
     "static/media/onlineShoping2.jpg": "/static/media/onlineShoping2.8e4fa4bd491854244925.jpg",
@@ -41,11 +40,10 @@
     "static/media/UzbekFlag.webp": "/static/media/UzbekFlag.c12a0dd84802b2cbbcbc.webp",
     "index.html": "/index.html",
     "main.88ddaaba.css.map": "/static/css/main.88ddaaba.css.map",
-    "main.14c1642c.js.map": "/static/js/main.14c1642c.js.map",
-    "787.8e02cb2b.chunk.js.map": "/static/js/787.8e02cb2b.chunk.js.map"
+    "main.4d2ba5a4.js.map": "/static/js/main.4d2ba5a4.js.map"
   },
   "entrypoints": [
     "static/css/main.88ddaaba.css",
-    "static/js/main.14c1642c.js"
+    "static/js/main.4d2ba5a4.js"
   ]
 }
