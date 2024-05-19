@@ -13,13 +13,12 @@ import Image26 from "../Product-Image/Toys/Toys2.jpg";
 import Image31 from "../Product-Image/Watches/Watches1.png";
 import Image32 from "../Product-Image/Watches/Watches2.jpg";
 
-console.log(translateText);
 let randomProducts = [
     {
         id: 1,
         category: "clothes",
         image: Image1,
-        title: [translateText().ClothesProduct1],
+        // title: [translateText().ClothesProduct1],
         description: [translateText().ClothesProduct1_title],
         oldPrice: "189",
         price: "163$",
