@@ -9,6 +9,7 @@ import App from './App';
 import ShopContextProvider from "./Context/ShopContext";
 
 function setDefaultLanguageAction() {
+  console.log("set language function started")
   let defaultLanguageAction = localStorage.getItem("defaultLanguageAction");
   if (defaultLanguageAction === null) {
     localStorage.setItem("language", "uz");
