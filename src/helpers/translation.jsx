@@ -432,7 +432,19 @@ let RussianLan = {
 
 };
 
+function setDefaultLanguageAction() {
+  console.log("set language function started")
+  let defaultLanguageAction = localStorage.getItem("defaultLanguageAction");
+  if (defaultLanguageAction === null) {
+    localStorage.setItem("language", "uz");
+    localStorage.setItem("defaultLanguageAction", true);
+  }
+}
+
+
 function translateText() {
+  setDefaultLanguageAction();
+  
   let userLanguage = localStorage.getItem("language");
 
   if (userLanguage === "uz") {

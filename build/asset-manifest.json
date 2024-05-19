@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.88ddaaba.css",
-    "main.js": "./static/js/main.fbe7683c.js",
+    "main.js": "./static/js/main.35f87e77.js",
     "static/media/deliver-to-so-many-countries-2048x1152.jpeg": "./static/media/deliver-to-so-many-countries-2048x1152.c6dcaa4d46e7663b5497.jpeg",
     "static/media/onlineShoping4.jpg": "./static/media/onlineShoping4.bfa2abe472a9a48c2831.jpg",
     "static/media/onlineShoping2.jpg": "./static/media/onlineShoping2.8e4fa4bd491854244925.jpg",
@@ -40,10 +40,10 @@
     "static/media/UzbekFlag.webp": "./static/media/UzbekFlag.c12a0dd84802b2cbbcbc.webp",
     "index.html": "./index.html",
     "main.88ddaaba.css.map": "./static/css/main.88ddaaba.css.map",
-    "main.fbe7683c.js.map": "./static/js/main.fbe7683c.js.map"
+    "main.35f87e77.js.map": "./static/js/main.35f87e77.js.map"
   },
   "entrypoints": [
     "static/css/main.88ddaaba.css",
-    "static/js/main.fbe7683c.js"
+    "static/js/main.35f87e77.js"
   ]
 }
