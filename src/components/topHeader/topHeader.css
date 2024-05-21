@@ -5,26 +5,26 @@
     justify-content: center;
     column-gap: 6rem;
     padding: 0.3rem;
-    background-color: #2b2d42;
+    background-color: rgba(164, 164, 164, 0.414);
     color: white;
 }
 
 .topHeader__currentLocation {
     text-decoration: none;
-    color: white;
+    color: black;
     margin-left: var(--mb-0-25);
     font-weight: var(--font-medium);
     cursor: pointer;
 }
 
 .topHeader__delivery {
-    color: white;
+    color: grey;
     margin-left: var(--mb-0-25);
     font-weight: var(--font-medium);
 }
 
 .topHeader__delivery:hover {
-    color: greenyellow;
+    color: black;
 }
 
 .topHeader__Colab {
@@ -35,7 +35,7 @@
 }
 
 .topHeader__Colab:hover {
-    color: greenyellow;
+    color: black;
 }
 
 .topHeader__Colab-Number {
@@ -53,7 +53,7 @@
 
 .Languages p{
     margin-bottom: 0;
-    color: white;
+    color: black;
 }
 
 .Languages img{

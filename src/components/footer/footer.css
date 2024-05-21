@@ -2,12 +2,12 @@ footer {
   text-align: center;
   padding: 5rem;
   margin-top: 3rem;
-  background-color: #2b2d42;
-  color: white;
+  background-color: rgba(164, 164, 164, 0.414);
+  color: grey;
 }
 
 .footer__logo {
-  color: white;
+  color: black;
 }
 
 .Foter__item {
@@ -26,6 +26,6 @@ footer {
 }
 
 .footer__social a {
-  color: white;
+  color: black;
 }
 

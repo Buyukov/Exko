@@ -33,7 +33,7 @@
 }
 
 .productDisplay__items h3{
-   color: #4B0082;
+   color: black;
 }
 
 .productDisplay__items div{
@@ -46,11 +46,11 @@
 }
 
 .productDisplay_price {
-    color: brown;
+    color: green;
 }
 
 .contact__form-tag {
-    background-color: #4B0082;
+    background-color: black;
 }
 
 .bestProducts__Container {
@@ -59,7 +59,7 @@
     flex-direction: column;
     align-items: center;
     padding: 3px;
-    color: #4B0082;
+    color: black;
 }
 
 /*======================================== BREAKPOINTS ========================================*/

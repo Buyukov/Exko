@@ -47,7 +47,7 @@
 .about__description {
     padding: 0 4rem 0 0;
     margin-bottom: var(--mb-2-5);
-    color: grey;
+    color: rgb(73, 72, 72); 
 }
 
 .section__title-introduction {
@@ -64,7 +64,7 @@
 }
 
 .aboutText__color {
-    color: #4B0082;
+    color: black;
 }
 
 /*======================================== BREAKPOINTS ========================================*/

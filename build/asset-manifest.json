@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.88ddaaba.css",
-    "main.js": "/static/js/main.dad27209.js",
+    "main.css": "/static/css/main.e757558f.css",
+    "main.js": "/static/js/main.299f24b9.js",
     "static/media/deliver-to-so-many-countries-2048x1152.jpeg": "/static/media/deliver-to-so-many-countries-2048x1152.c6dcaa4d46e7663b5497.jpeg",
     "static/media/onlineShoping4.jpg": "/static/media/onlineShoping4.bfa2abe472a9a48c2831.jpg",
     "static/media/onlineShoping2.jpg": "/static/media/onlineShoping2.8e4fa4bd491854244925.jpg",
@@ -39,11 +39,11 @@
     "static/media/Toys5.jpg": "/static/media/Toys5.2d98a392ef6b7748148c.jpg",
     "static/media/UzbekFlag.webp": "/static/media/UzbekFlag.c12a0dd84802b2cbbcbc.webp",
     "index.html": "/index.html",
-    "main.88ddaaba.css.map": "/static/css/main.88ddaaba.css.map",
-    "main.dad27209.js.map": "/static/js/main.dad27209.js.map"
+    "main.e757558f.css.map": "/static/css/main.e757558f.css.map",
+    "main.299f24b9.js.map": "/static/js/main.299f24b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.88ddaaba.css",
-    "static/js/main.dad27209.js"
+    "static/css/main.e757558f.css",
+    "static/js/main.299f24b9.js"
   ]
 }

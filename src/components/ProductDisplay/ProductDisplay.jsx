@@ -25,7 +25,7 @@ const ProductDisplay = (props) => {
            </div>
 
            <div>
-              <h5>Old Price: <del>{product.oldPrice}</del></h5>
+              <h5 style={{color: "grey"}}>Old Price: <del style={{color: "red"}}>{product.oldPrice}</del>$</h5>
               <h4 className='productDisplay_price'>Current Price: {product.price}</h4>
            </div>
         </div>

@@ -62,7 +62,7 @@
 }
 
 .navText__style {
-    color: #4B0082; 
+    color: rgb(73, 72, 72); 
 }
 /*======================================== BREAKPOINTS ========================================*/
 @media screen and (max-width: 1200px) {
